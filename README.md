@@ -1,11 +1,14 @@
-!-- ============ HEADER BANNER ============ --> <!-- Change "color" (hex or gradient), "text", and "fontColor" to make it yours --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Denuwan%20Chalana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💻 IT Assistant | Software Developer |%20IoT & Embedded%20Systems%20Enthusiast 🚀&descAlignY=58&descSize=18" /> </p> <!-- ============ ANIMATED TYPING LINE ============ --
+<!-- ============ HEADER BANNER ============ -->
+<!-- Change "color" (hex or gradient), "text", and "fontColor" to make it yours -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Denuwan%20Chalana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Smart%20Solutions%20Through%20Code%20and%20Innovation&descAlignY=58&descSize=18" />
 </p>
 
 <!-- ============ ANIMATED TYPING LINE ============ -->
 <!-- Separate each line with ; and use + for spaces -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Undergraduate+@+YOUR+UNIVERSITY;IoT+%26+Full-Stack+Enthusiast;Always+building+something+new+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=🚀+Building+Smart+Solutions+Through+Code+and+Innovation;Tech+%26+IoT+Enthusiast;Always+learning+something+new+💡" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,10 +26,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying **Bsc. Applied Infomation Technology** at **Sri Lanka Technology Campus - SLTC**
+- 🎓 Currently studying **BSc Applied Information Technology** at **Sri Lanka Technology Campus - SLTC**
 - 🛠️ Passionate about **Software Development**, **Embedded Systems**, and **Data Analytics**
 - 💡 Hands-on with **ESP32 / Arduino**, **Power BI**, and **Full-Stack Development**
-- 🌱 Currently learning: **Flutter,Java,C++,Python,MySQL, Cloud, AI**
+- 🌱 Currently learning: **Flutter, Cloud, AI**
 - ⚡ Looking to collaborate on: **open-source projects and IoT solutions**
 - 📫 Reach me: **denuman5@gmail.com**
 - 🎯 Fun fact: **I enjoy turning ideas into working projects and exploring how software and hardware can work together to create smarter solutions! 🚀**
@@ -66,6 +69,15 @@
 
 ---
 
+## 🏆 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Project One](https://github.com/Denuwan31368/project-one) | One line about what it does | Java |
+| [Project Two](https://github.com/Denuwan31368/project-two) | One line about what it does | Flutter |
+| [Project Three](https://github.com/Denuwan31368/project-three) | One line about what it does | ESP32 |
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Denuwan31368&label=Profile%20Views&color=0e75b6&style=flat" />
