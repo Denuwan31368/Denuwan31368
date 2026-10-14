@@ -73,9 +73,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Denuwan31368&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://hits.sh/github.com/Denuwan31368.svg?style=flat&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Denuwan%20Chalana-2c5364?style=for-the-badge" alt="Footer" />
 </p>
