@@ -69,13 +69,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project One](https://github.com/Denuwan31368/project-one) | One line about what it does | Java |
-| [Project Two](https://github.com/Denuwan31368/project-two) | One line about what it does | Flutter |
-| [Project Three](https://github.com/Denuwan31368/project-three) | One line about what it does | ESP32 |
 
 ---
 
