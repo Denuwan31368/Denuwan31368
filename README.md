@@ -8,7 +8,7 @@
 <!-- Separate each line with ; and use + for spaces -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=🚀+Building+Smart+Solutions+Through+Code+and+Innovation;Tech+%26+IoT+Enthusiast;Always+learning+something+new+💡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Building+Smart+Solutions+Through+Code+and+Innovation;Tech+%26+IoT+Enthusiast;Always+learning+something+new+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
 
