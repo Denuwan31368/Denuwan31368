@@ -59,12 +59,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Denuwan31368&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan31368&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Denuwan31368&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,14 +73,14 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project One](https://github.com/YOUR-USERNAME/project-one) | One line about what it does | Java |
-| [Project Two](https://github.com/YOUR-USERNAME/project-two) | One line about what it does | Flutter |
-| [Project Three](https://github.com/YOUR-USERNAME/project-three) | One line about what it does | ESP32 |
+| [Project One](https://github.com/Denuwan31368/project-one) | One line about what it does | Java |
+| [Project Two](https://github.com/Denuwan31368/project-two) | One line about what it does | Flutter |
+| [Project Three](https://github.com/Denuwan31368/project-three) | One line about what it does | ESP32 |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Denuwan31368&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
