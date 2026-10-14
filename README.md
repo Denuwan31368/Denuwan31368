@@ -1,7 +1,7 @@
 <!-- ============ HEADER BANNER ============ -->
 <!-- Change "color" (hex or gradient), "text", and "fontColor" to make it yours -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20YOUR%20NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20short%20tagline%20here&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Denuwan%20Chalana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20short%20tagline%20here&descAlignY=58&descSize=18" />
 </p>
 
 <!-- ============ ANIMATED TYPING LINE ============ -->
@@ -26,13 +26,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying **YOUR DEGREE** at **YOUR UNIVERSITY**
+- 🎓 Currently studying **Bsc. Applied Infomation Technology** at **Sri Lanka Technology Campus - SLTC**
 - 🛠️ Passionate about **Software Development**, **Embedded Systems**, and **Data Analytics**
 - 💡 Hands-on with **ESP32 / Arduino**, **Power BI**, and **Full-Stack Development**
-- 🌱 Currently learning: **Flutter, Cloud, AI**
+- 🌱 Currently learning: **Flutter,Java,C++,Python,MySQL, Cloud, AI**
 - ⚡ Looking to collaborate on: **open-source projects and IoT solutions**
-- 📫 Reach me: **YOUR-EMAIL@gmail.com**
-- 🎯 Fun fact: **add something personal here — this is what makes it unique!**
+- 📫 Reach me: **denuman5@gmail.com**
+- 🎯 Fun fact: **I enjoy turning ideas into working projects and exploring how software and hardware can work together to create smarter solutions! 🚀**
 
 ---
 
@@ -59,28 +59,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Denuwan31368&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan31368&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Denuwan31368&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project One](https://github.com/YOUR-USERNAME/project-one) | One line about what it does | Java |
-| [Project Two](https://github.com/YOUR-USERNAME/project-two) | One line about what it does | Flutter |
-| [Project Three](https://github.com/YOUR-USERNAME/project-three) | One line about what it does | ESP32 |
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Denuwan31368&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
