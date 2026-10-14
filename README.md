@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying **YOUR DEGREE** at **YOUR UNIVERSITY**
+- 🎓 Currently studying **Bsc Applied Information Technology** at **Sri Lanka Technology Campus - SLTC**
 - 🛠️ Passionate about **Software Development**, **Embedded Systems**, and **Data Analytics**
 - 💡 Hands-on with **ESP32 / Arduino**, **Power BI**, and **Full-Stack Development**
 - 🌱 Currently learning: **Flutter, Cloud, AI**
