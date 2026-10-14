@@ -1,7 +1,4 @@
-<!-- ============ HEADER BANNER ============ -->
-<!-- Change "color" (hex or gradient), "text", and "fontColor" to make it yours -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Denuwan%20Chalana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀 Building Smart Solutions Through Code and Innovation&descAlignY=58&descSize=18" />
+!-- ============ HEADER BANNER ============ --> <!-- Change "color" (hex or gradient), "text", and "fontColor" to make it yours --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Denuwan%20Chalana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💻 IT Assistant | Software Developer |%20IoT & Embedded%20Systems%20Enthusiast 🚀&descAlignY=58&descSize=18" /> </p> <!-- ============ ANIMATED TYPING LINE ============ --
 </p>
 
 <!-- ============ ANIMATED TYPING LINE ============ -->
